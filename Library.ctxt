@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Library()
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ library\n
+comment1.params=book
+comment1.target=void\ addBook(java.lang.String)
+comment2.params=
+comment2.target=int\ numberOfBooks()
+numComments=3
