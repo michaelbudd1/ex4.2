@@ -20,5 +20,10 @@ public class Book
        title = title;
         
     }
+    
+    public String toString()
+    {
+        return title + " by " + author;    
+    }
 
 }
